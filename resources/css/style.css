@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Odibee Sans';
+    src: url('../fonts/Odibee_Sans/OdibeeSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MateSC';
+    src: url('../fonts/Mate_SC/MateSC-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('../fonts/Rubik/Rubik-VariableFont_wght.ttf') format('truetype'), 
+    url('../fonts/Rubik/Rubik-Italic-VariableFont_wght.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Open Sans C';
+    src: url('../fonts/Open_Sans_Condensed/OpenSansCondensed-Bold.ttf') format('truetype'), 
+    url('../fonts/Open_Sans_Condensed/OpenSansCondensed-Light.ttf') format('truetype') ,
+    url('../fonts/Open_Sans_Condensed/OpenSansCondensed-LightItalic.ttf') format('truetype');
+}
